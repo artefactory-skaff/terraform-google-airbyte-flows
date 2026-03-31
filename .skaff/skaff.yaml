@@ -10,7 +10,7 @@ description: >
 documentation_url: https://registry.terraform.io/modules/artefactory/airbyte-flows/google/latest
 
 type: deployable      # deployable, knowldege pack
-lifecycle: prototype  # prototype, production
+lifecycle: deprecated  # prototype, production
 
 users:                # DS, DA, DE
   - DS
